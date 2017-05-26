@@ -2,6 +2,14 @@ Hi Git!
 
 You are so cool!
 
+<<<<<<< HEAD
 This is a special line by chanas!
 
 I've no idea why these lines are not being shown in the master!
+=======
+This is another line of DQE$#QEFDFADFWER@#R$T%&%&%W$#!
+
+Oh yes, I forgot to add this extra line of $%@#%$#%!
+
+need to add this line too!
+>>>>>>> 01e03c0996fb29b2e389aa52f37662ec92e198f2
